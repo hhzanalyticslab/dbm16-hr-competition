@@ -1,6 +1,6 @@
 # dbm16-hr-competition
 
-Warum verlassen uns unsere besten und erfahrensten Mitarbeiter und Mitarbeiterinnen?
+### Warum verlassen uns unsere besten und erfahrensten Mitarbeiter und Mitarbeiterinnen?
 
 Ziel: Entwicklung eines Prognosemodells für die Vorhersage, ob ein Mitarbeiter oder eine Mitarbeiterin das Unternehmen als nächstes verlassen könnte.
 
